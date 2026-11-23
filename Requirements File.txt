@@ -1,0 +1,2 @@
+# No external third-party dependencies are required.
+# All modules used (argparse, datetime, json, math, socket, socketserver, threading, time, uuid) belong to the Python 3.9+ standard library.
